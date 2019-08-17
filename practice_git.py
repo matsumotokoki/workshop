@@ -1,5 +1,6 @@
 
-print("hello git\n")
+print("hello git")
+print()
 
 for i in range(10):
     print("NO."+str(i+1))
@@ -7,4 +8,5 @@ for i in range(10):
         #TODO add action
         pass
 
-print("\ngood bye!")
+print()
+print("good bye!")
