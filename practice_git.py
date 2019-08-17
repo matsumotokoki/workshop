@@ -2,8 +2,8 @@
 print("hello git")
 print()
 
-for i in range(10):
-    print("NO."+str(i+1))
+for l in range(10):
+    print("NO."+str(l+1))
     for j in range(3):
         pass
 
